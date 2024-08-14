@@ -1,8 +1,13 @@
----
 
-# 626 Inova
+<div align="center" style="padding: 20px; display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/131dbea6-4808-4107-94e2-c52505b9e2c9" alt="626Inova" />
+</div>
 
-Bem-vindo à 626 Inova! Somos uma organização dedicada à criação de aplicativos inovadores e soluções tecnológicas de ponta. 
+
+626 Inova
+==========
+
+Bem-vindo à 626 Inova! Somos uma organização dedicada à criação de aplicativos e soluções tecnológicas de ponta. 
 Nosso foco é desenvolver produtos que não apenas atendam, mas superem as expectativas de nossos usuários, oferecendo experiências únicas e eficientes.
 
 ## Sobre Nós
