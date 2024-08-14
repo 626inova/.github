@@ -7,7 +7,9 @@
 626 Inova
 ==========
 
-Bem-vindo à 626 Inova! Somos uma organização dedicada à criação de aplicativos e soluções tecnológicas de ponta. 
+Bem-vindo à 626 Inova! 
+
+Somos uma organização dedicada à criação de aplicativos e soluções tecnológicas de ponta. 
 Nosso foco é desenvolver produtos que não apenas atendam, mas superem as expectativas de nossos usuários, oferecendo experiências únicas e eficientes.
 
 ## Sobre Nós
