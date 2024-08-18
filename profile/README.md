@@ -21,4 +21,7 @@ Com uma equipe apaixonada por desenvolvimento, estamos constantemente explorando
 
 Estamos envolvidos em uma variedade de projetos que abrangem desde aplicativos móveis até soluções multiplataforma. Alguns dos nossos projetos em andamento incluem:
 
-- **Nova Client:** Um cliente multiplataforma para SA-MP, desenvolvido com Jetpack Compose, disponível para Android e Windows.
+---
+> [!WARNING]  
+Repositorio temporariamente indisponivel
+> - **Nova Client:** Um cliente multiplataforma para SA-MP, desenvolvido com Jetpack Compose, disponível para Android e Windows.
