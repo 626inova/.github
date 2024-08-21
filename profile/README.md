@@ -24,5 +24,5 @@ Estamos envolvidos em uma variedade de projetos que abrangem desde aplicativos m
 ---
 > [!WARNING]  
 Repositorio temporariamente indisponivel
-> - **Nova Client:**  Um cliente multiplataforma para SA-MP, dando continuidade ao projeto [SAMP-Android](https://github.com/SAMP-Android). Desenvolvido com Jetpack Compose, disponível para Android e Windows.
+> - **Inova Client:**  Um cliente multiplataforma para SA-MP, dando continuidade ao projeto [SAMP-Android](https://github.com/SAMP-Android). Desenvolvido com Jetpack Compose, disponível para Android e Windows.
 
